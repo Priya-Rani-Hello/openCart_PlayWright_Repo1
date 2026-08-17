@@ -1,0 +1,13 @@
+Email: sanukumar1231@gmail.com
+Password: test@123
+Email field visible: true
+Password field visible: true
+Email filled
+Password filled
+Login button clicked
+URL after login: https://tutorialsninja.com/demo/index.php?route=account/login
+Current URL: https://tutorialsninja.com/demo/index.php?route=account/login
+unable to click logout link Error: locator.click: Test timeout of 30000ms exceeded.
+Call log:
+  - waiting for getByRole('link', { name: 'Logout' })
+

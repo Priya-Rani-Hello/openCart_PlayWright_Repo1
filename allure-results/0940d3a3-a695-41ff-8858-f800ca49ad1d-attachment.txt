@@ -1,0 +1,4 @@
+isProductExistCalled
+count is :3
+Inside for loop
+Product name is :MacBook

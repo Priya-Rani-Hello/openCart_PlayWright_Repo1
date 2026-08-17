@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3596","user login test @master @regression @sanity","chromium","2026-08-04","passed","2026-08-04","","Login.spec.ts","",""
+"","9739","user registration test","firefox","2026-07-17","passed","2026-07-17","","AccountRegistration.spec.ts","",""
+"","4350","user login test","chromium","2026-08-02","failed","2026-08-02","","Login.spec.ts","",""
+"","9759","user registration test","webkit","2026-07-17","passed","2026-07-17","","AccountRegistration.spec.ts","",""
+"","5928","user registration test","chromium","2026-07-20","passed","2026-07-20","","AccountRegistration.spec.ts","",""
