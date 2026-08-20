@@ -40,7 +40,7 @@ test.afterEach(async ({ page }) => {
   await page.close(); // Optional cleanup
 });
 
-test('Add product to cart test @master @regression', async ({ page }) => {
+test('Add product to cart test @smoke', async ({ page }) => {
   // Step 2: Enter product name in search box
   await homePage.enterProductName(config.productName);
 
